@@ -34,3 +34,9 @@
 */
 
 // YOUR CODE HERE
+
+var birthday = {
+  year: 1982,
+  month: 08,
+  day: 09
+}
