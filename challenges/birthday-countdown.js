@@ -40,3 +40,7 @@ var birthday = {
   month: 08,
   day: 09
 }
+
+function daysUntilDate() {
+  var
+}
